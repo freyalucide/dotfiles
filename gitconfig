@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gulnaramusin1@gmail.com
+	name = Gulnara Musina
