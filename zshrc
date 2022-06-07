@@ -69,3 +69,4 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PYTHONPATH="/Users/gulnaramusina/code/freyalucide/data-challenges/04-Decision-Science:$PYTHONPATH"
